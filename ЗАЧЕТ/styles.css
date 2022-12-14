@@ -1,0 +1,172 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+header{
+    height: auto;
+    margin: 10px 42px 0px 42px;
+}
+
+.gg{
+    height: 150px;
+}
+
+.box1{
+    background-image: url(header.png);
+    height: 75%;
+    background-repeat: no-repeat;
+    background-size: cover;
+    color: transparent;
+}
+
+.box2{
+    width: 100%;
+    height: 90px;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    background-color: rgb(231, 231, 231);
+    margin-bottom: 0;
+}
+
+.logo{
+    width: 100px;
+}
+
+.kino{
+    text-decoration: none;
+    color: rgb(96, 96, 96);
+    font-size: 26px;
+    font-weight: bold;
+}
+
+main{
+    display: flex;
+    position: relative;
+    top: -40px;
+    margin: 0px 42px;
+    height: 895px;
+    background-color: rgb(206, 206, 206);
+}
+   
+.dana{
+    transform: translate(1em,1em);
+  
+}
+.a{
+    width: 300px;
+    height:400px;
+}
+.pop{
+    transform: translate(10em,1em);
+}
+.b{
+    width: 300px;
+    height: 400px;
+    
+}
+
+.sosisca{
+    transform: translate(18em,1em);
+}
+.c{
+    width: 300px;
+    height: 400px;
+}
+
+
+.gopa{
+    transform: translate(-55em,27em);
+}
+.d{
+    width: 300px;
+    height: 400px;
+}
+
+footer{
+    
+    height: 250px;
+    background-color: rgb(51, 51, 51);
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+}
+.wer img{
+
+ max-width: 130%;
+ text-align: center;
+display: inline;
+margin: 8px;
+transform: translate(-60em, 30em);
+position: relative;
+}
+.we img{
+    max-width: 130%;
+    text-align: center;
+   display: inline;
+   margin: 10px;
+   transform: translate(-33em, -34em);
+   position: relative;
+   }
+
+   .wee img{
+    max-width: 130%;
+    text-align: center;
+   display: inline;
+   margin: 10px;
+   transform: translate(-8em, -98em);
+   position: relative;
+   }
+   .uiup{
+    width: 210px;
+     height: 310px; 
+}
+    .tytu{
+    width: 210px;
+     height: 330px; 
+}
+
+    .aria{
+       width: 210px;
+        height: 310px; 
+    }
+    .da{
+    
+         width: 210px;
+          height: 320px; 
+            
+    }
+
+
+.cop{
+    width: 500px;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    gap: 10px;
+}
+
+.name{
+    text-decoration: none;
+    height: 20px;
+    width: 500px;
+    font-size: 20px;
+}
+
+.name2{
+    color: blue;
+    height: 20px;
+    width: 500px;
+    font-size: 20px;
+}
+
+.contacts{
+    display: flex;
+    gap: 15px;
+}
+
+.con{
+    width:80px;
+    height: 80px;
+    border-radius: 20%;
+}
